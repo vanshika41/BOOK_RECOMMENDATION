@@ -1,0 +1,71 @@
+0,1,2
+C430-11.4,base modeling and parameter estimation.,
+,"Design 
+intelligent  application  for  solving  real  world 
+information",
+,,Level-6 (Creating)
+C430-11.5,retrieval problems,
+Module,"Title of the 
+Topics in the Module",No. of
+No.,Module,Lectures for
+,,the module
+,"Introduction to
+Theory of information retrieval, Information retrieval on",
+1.,,
+,"Information 
+Data and information retrieval on the Web Information",3
+,"Retrieval
+retrieval tools and their architecture.",
+,"Boolean Retrieval 
+An 
+example 
+information 
+retrieval  problem,  Processing",
+2.,,
+,"& Index 
+Boolean queries, the extended Boolean model versus ranked",
+,,6
+,"Construction
+retrieval,  Blocked-Sort 
+based 
+Indexing,  Single-pass-in-",
+,"Memory Indexing, Distributed and Dynamic Indexing.",
+,"Wild card queries, Spelling correction, Phonetic correction
+Dictionary and",
+3.,,
+,tolerant retrieval,4
+,"Term frequency and weighting, Vector space model, 
+Scoring Term",
+4.,,
+,"Variant TF-IDF Scoring, Probabilistic IR, Language 
+weighting and the",
+,"vector space model
+Modeling, Distributed word representations (Word Co-",6
+,"occurrence, Word Embedding (GLOVE, Word2Vec)),",
+,Evaluation of IR System.,
+,"Link analysis
+Web as graph and Page ranking algorithms",
+5.,,
+,,4
+,"Information 
+Web directory, Search engine, Meta search engines, Web",
+6.,,
+,"retrieval tools
+searching
+and
+search
+engine
+architecture,
+Searching",4
+,"Algorithms (Fish, Shark etc...).",
+,"Web Crawler architecture and Web crawling (parallel, 
+Web Crawling",
+7.,,
+,,5
+,distributed and focused web crawling).,
+,"Taxonomy and 
+Creating domain specific ontology, Ontology life cycle",
+8.,,
+,,10
+,"Ontology
+Semantic Web: Resource description Framework (RDF),",
